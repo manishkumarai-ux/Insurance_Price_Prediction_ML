@@ -182,8 +182,10 @@ The models were evaluated using:
 
 Insurance-Expense-Prediction/
 
+
 ├── data/
 │ └── insurance.csv
+
 │
 ├── notebooks/
 │ └── Insurance_Expense_Prediction.ipynb
@@ -236,8 +238,5 @@ Insurance-Expense-Prediction/
 Manish Singla
 
 Project Manager | AI/ML Enthusiast | Telecom & IT Professional
-
-GitHub: https://github.com/<your-github-username>
-LinkedIn: https://linkedin.com/in/<your-linkedin-profile>
 
 ---
